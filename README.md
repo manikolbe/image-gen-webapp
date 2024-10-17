@@ -1,4 +1,4 @@
-# Stable Diffusion Web Application
+# AI Image Generator - Web Application
 
 This project is a web application built using Streamlit and Stable Diffusion for generating images from text prompts. It uses `pyenv` for managing Python versions and virtual environments.
 

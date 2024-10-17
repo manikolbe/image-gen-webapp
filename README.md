@@ -2,6 +2,8 @@
 
 This project is a web application built using Streamlit and Stable Diffusion for generating images from text prompts. It uses `pyenv` for managing Python versions and virtual environments.
 
+![Stable Diffusion Logo](screenshot.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your macOS:

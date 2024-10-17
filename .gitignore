@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+env.bak/
+*.env
+
+# Streamlit configuration
+/.streamlit/
+
+# Ignore downloaded models
+models/
+*.ckpt
+*.safetensors
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Miscellaneous
+*.DS_Store
+*.pkl
+*.sqlite3
+*.db
